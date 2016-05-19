@@ -14,7 +14,7 @@ body {
     font-size: 1em;
     line-height: 1.4;
     /*background-color: #E6E6E6;*/
-    background-image: url(/2012/img/paper-background.jpg);
+    background-image: url(../2012/img/paper-background.jpg);
     color: #808080;
 }
 
@@ -27,7 +27,7 @@ speaker link
 .speaker a:hover   {text-decoration:underline; color:#476E1D }
 
 /*-----------------------------------------------
-a Link 
+a Link
 ------------------------------------------------*/
 a:link    {text-decoration:none; color:#429940 }
 a:visited {text-decoration:none; color:#429940 }
@@ -490,7 +490,7 @@ organizers
   .sidebar {
     display: none;
   }
-  
+
   .logo{
     position: relative;
     display: block;
@@ -563,7 +563,7 @@ organizers
     position: relative;
     top:-30px;
   }
- 
+
   .ticket{
     position: relative;
     top: -10px;
@@ -593,7 +593,7 @@ organizers
   .speaker{
     margin-bottom:42px;
   }
-  
+
   .snsbar {
     background: rgba(255, 255, 255, .35) !important;
     margin: 28px auto 42px;
@@ -719,7 +719,7 @@ organizers
   .socalbutton{
     display: inline;
     position: relative;
-    top: -50px  
+    top: -50px
   }
 
   .socalbutton h2{display:none;}
@@ -985,7 +985,7 @@ organizers
     }
 
     nav {
-      
+
     }
     nav a {
         width: 65%;
@@ -1007,7 +1007,7 @@ organizers
       display: block;
       list-style-type: none;
     }
-    
+
     .socalbutton {
       width:200px;
       text-align: center;
